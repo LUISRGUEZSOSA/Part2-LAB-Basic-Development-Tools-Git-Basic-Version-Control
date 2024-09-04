@@ -9,3 +9,7 @@
 
 
 // modificación final
+
+
+
+FUNCIONA LA SINCRONIZACIÓN?
